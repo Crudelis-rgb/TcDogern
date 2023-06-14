@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "FirstPage"
-permalink: /FirstPage
+title: "About"
+permalink: /
 ---
 #This is my first Page
