@@ -3,3 +3,7 @@ theme: minima
 title: TC Dogern Website
 
 description: Eine Testwebsite, keine offizielle Website!
+
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
