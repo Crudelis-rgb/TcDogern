@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Startseite
 ---
 
 # Willkommen beim TC Dogern!
